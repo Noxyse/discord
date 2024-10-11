@@ -30,4 +30,4 @@ chapo_setup(bot)
 # from url import setup as url_setup
 # url_setup(bot)
 
-bot.run('MTI5MzMyMDc4MTMzMzI3MDU0OA.GkbLjP.zmZWkQtVUAlRDQQZSJDwiC3_yzpa24p10Fc5pM')
+bot.run('TOKEN')
