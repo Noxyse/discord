@@ -8,7 +8,7 @@ def setup(bot):
             await message.channel.send('Hello there!')
 
 #auto-deletion of words
-        if 'fuck' in message.content.lower():
+        if 'test' in message.content.lower():
             await message.delete()
 
             warn_command = bot.get_command('warn')
